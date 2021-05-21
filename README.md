@@ -1,5 +1,5 @@
 - 👋 Saya @MunimHalim
-- 👀 Saya seorang penyelidik ...
+- 👀 Saya seorang penyelidik yang lahir di Malaysia ...
 
 <!---
 MunimHalim/MunimHalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
